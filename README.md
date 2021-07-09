@@ -1,0 +1,2 @@
+# Netflix-Project-2-ETL-Data
+This is a group project that I worked on with my Netflix Data Science bootcamp team: Fana Wachamo, Andres Alcaraz, Sonya Worrel, Brandon Obasogie, and Charne Jewel-Hart. The goal of the project is to take the role of a data engineer tasked with building a database that meets certain specifications. Design of the database using a provided requirements file and data tables from IMDB.
